@@ -1,0 +1,4 @@
+echo "Test push" > test.txt
+git add .
+git commit -m "Test push"
+git push
