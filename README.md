@@ -1,1 +1,1 @@
-# Test
+echo "Первый push" > test.txt
